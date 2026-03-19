@@ -1,0 +1,2 @@
+The website that I used to deploy it anonymously was codeberg
+In this case, it's deployed to: https://verifikat.codeberg.page/Verifikat/ (You can visit it, but since the bot is inactive, the qr will not update)
